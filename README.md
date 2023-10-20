@@ -5,7 +5,7 @@ Modernizing culinary practices involves the integration of technology and innova
 
 ## Visualization of functional units for two tasks - (a) orange juice and (b) whipped cream
 
-Utilizing visualization tools [9], we create illustrative figure above of functional units of two different tasks. The green nodes denote objects, while the red nodes denote motions. These visualizations provide insights into the structure and organization of the FOON, aiding in the understanding and debugging of the program.
+Utilizing [visualization tools](http://foonets.com/), we create illustrative figure above of functional units of two different tasks. The green nodes denote objects, while the red nodes denote motions. These visualizations provide insights into the structure and organization of the FOON, aiding in the understanding and debugging of the program.
 
 ![functional_units.png](https://github.com/FarhatBuet14/KitchenHelp-Task-Tree-Retrieval/blob/main/images/functional_units.png)
 
