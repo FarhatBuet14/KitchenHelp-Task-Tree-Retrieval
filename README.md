@@ -7,7 +7,7 @@ Modernizing culinary practices involves the integration of technology and innova
 
 Utilizing [visualization tools](http://foonets.com/), we create illustrative figure above of functional units of two different tasks. The green nodes denote objects, while the red nodes denote motions. These visualizations provide insights into the structure and organization of the FOON, aiding in the understanding and debugging of the program.
 
-![functional_units.png](https://github.com/FarhatBuet14/KitchenHelp-Task-Tree-Retrieval/blob/main/images/functional_units.png)
+![functional_units.png](https://github.com/FarhatBuet14/RoboKitchen-Task-Tree-Retrieval/blob/main/images/functional_units.png)
 
 
 ## Search Algorithms
@@ -25,4 +25,4 @@ The selection of the path during exploration is determined by the evaluation of 
 
 From the performance comparison (see the Table above), it is evident that the number of functional units in the task tree varies for each algorithm based on the goal node. The computational and memory complexities also vary, influenced by the heuristic functions utilized. GBFS with heuristic function h1 generally resulted in a reduced number of functional units compared to IDS and GBFS with heuristic function h2. However, it's important to note that this reduction in functional units might not always align with the actual optimal solution. In terms of computational and memory complexities, both IDS and GBFS demonstrate reasonable performance, with GBFS often requiring slightly less computational time but slightly more memory. The choice of heuristic function also affects the performance in terms of the number of functional units generated. 
 
-![performance%2Bcomparison.png](https://github.com/FarhatBuet14/KitchenHelp-Task-Tree-Retrieval/blob/main/images/performance%2Bcomparison.png)
+![performance%2Bcomparison.png](https://github.com/FarhatBuet14/RoboKitchen-Task-Tree-Retrieval/blob/main/images/performance%2Bcomparison.png)
